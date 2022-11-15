@@ -7,5 +7,5 @@ Entregáveis: relatórios e código a produzir no quadro do contrato ISA/DGT 261
 
 [Código Entregável 4: Main](https://github.com/manuelcampagnolo/Contrato_ISA_DGT_261_2021/blob/main/Main.ipynb)
 
-[Código Entregável 4: Funções](https://github.com/manuelcampagnolo/Contrato_ISA_DGT_261_2021/blob/main/Main.ipynb)
+[Código Entregável 4: Funções](https://github.com/manuelcampagnolo/Contrato_ISA_DGT_261_2021/blob/main/Funcoes_nb.ipynb)
 
